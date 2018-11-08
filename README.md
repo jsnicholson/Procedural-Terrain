@@ -23,12 +23,16 @@ Simple water with reflection and refraction
 
 ## Known Issues
 Low frame rate due to high vertex amount
+
 Falloff customisation still limited
+
 Colour system is clunky
 
 ## Planned Features
 LOD system to lower vertex count at further distances
+
 Gradient editor for terrain colour
+
 Water Effects
 - Depth blur
 - Edge Blur
