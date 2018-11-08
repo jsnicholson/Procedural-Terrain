@@ -6,14 +6,14 @@ A project to explore runtime mesh generation, noise, shaders and more.
 
 ## Current Features
 Scalable in chunks
-  -Vertexes per chunk
-  -Number of chunks
+- Vertexes per chunk
+- Number of chunks
   
 Fully customisable noise
-  -Using layered perlin with octaves
+- Using layered perlin with octaves
  
 Customisable falloff-map for creating islands
-  -Currently using circular and square falloff
+- Currently using circular and square falloff
 
 Lowpoly artstyle with uniform lighting and colour across each face
   
@@ -30,10 +30,10 @@ Colour system is clunky
 LOD system to lower vertex count at further distances
 Gradient editor for terrain colour
 Water Effects
-  -Depth blur
-  -Edge Blur
-  -Lowpoly lighting
-  -Blueness
+- Depth blur
+- Edge Blur
+- Lowpoly lighting
+- Blueness
 
 ### Details
 Project started in August 2018
